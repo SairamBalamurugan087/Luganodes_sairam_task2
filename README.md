@@ -42,12 +42,6 @@ polygon-validator-monitor/
 - **`requirements.txt`**: 
   - A text file that lists the Python packages required for the application to run, ensuring that all dependencies are installed.
 
-## Usage
-
-1. Update the `config.yaml` file with your Polygon validator address, RPC endpoint, and Telegram bot details.
-2. Build the Docker image using the provided Dockerfile.
-3. Run the container to start monitoring your Polygon validator.
-
 ## License
 
 This project is licensed under the MIT License.
