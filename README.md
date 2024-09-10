@@ -16,7 +16,8 @@ polygon-validator-monitor/
 │
 ├── Dockerfile            # Dockerfile to build a container image for the application.
 │
-└── requirements.txt      # Lists Python dependencies required for the application.
+└── requirements.txt      # Lists Python dependencies required for the application.```
+
 
 
 
