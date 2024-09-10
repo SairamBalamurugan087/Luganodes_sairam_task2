@@ -1,0 +1,8 @@
+validator_address: "0x3e3c0d1a8ac0461ae46e786d6822aa67290f8184"
+rpc_endpoint: "http://localhost:8545"
+checkpoint_api: "http://localhost:1317"
+heimdall_api: "http://localhost:1317"
+telegram_bot_token: "7372336558:AAHWvzv_yRUqYv_4pWbcDXK9jNYzSMIivSk"
+telegram_chat_id: "1667410046"
+check_interval: 300
+max_height_difference: 10
