@@ -1,4 +1,4 @@
-Sure! Below is the README file formatted as code, focusing solely on the files and their purposes without integrating the actual code snippets.
+
 
 ```markdown
 # Polygon Validator Monitoring Tool
